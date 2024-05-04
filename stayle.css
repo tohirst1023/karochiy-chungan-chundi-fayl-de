@@ -1,0 +1,14 @@
+/* univrsal stilar */
+.my-container {
+    width: 1140px;
+    margin: 0% auto;
+}
+
+/* Intro stilar */
+.intro {
+    height: 700px;
+    background-image: url('./images/IMAGE.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
